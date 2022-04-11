@@ -1,0 +1,40 @@
+Lekcja 1: Zmienne, podstawowe typy danych, tablice, referencja
+
+Dokumentacja:
+https://www.php.net/manual/en/language.basic-syntax.comments.php
+https://www.php.net/manual/en/language.variables.basics.php
+https://www.php.net/manual/en/language.types.boolean.php
+https://www.php.net/manual/en/language.types.integer.php
+https://www.php.net/manual/en/language.types.float.php
+https://www.php.net/manual/en/language.types.string.php
+https://www.php.net/manual/en/language.types.numeric-strings.php
+https://www.php.net/manual/en/language.types.array.php
+
+0.1 - wyświetl napis "hello word" za pomocą polecenia echo
+0.2 - wyświetl napis "hello word" za pomocą funkcji var_dump
+
+1. Utwórz komentarz jednoliniowy wstawiając w niego treść tego zadania
+2. Utwórz komentarz wieloliniowy wstawiając w niego treść tego zadania
+
+Informacja wstepna: przed rozwiązaniem każdego zadania wstaw w komentarzu jego treść oraz wyświetl dane zmiennych za pomocą funkcji var_dump
+
+3. Utwórz zmienną typu string
+4. Utwórz zmienną typu integer
+5. Utwórz zmienną typu float
+6. Utwórz zmienną typu boolean
+7. Utwórz zmienną typu array - pustą tablicę
+8. Dodaj do tablicy którą utworzyłeś liczby od 1 do 5;
+9. Zmień pierwszy element w tablicy na 0
+10. Zmień ostatni element w tablicy na 6
+11. Utwórz zmienną typu array i dodaj do niej 5 zmiennych typu string zawierających imiona
+12. Utwórz tablicę asocjacyjną zawirającą twoje dane przyisane do kluczy:
+- imie
+- nazwisko
+- wiek
+- data_urodzenia
+- miejscowość
+13. W utworzonej tablicy zmień "imie" i "nazwisko" na dane innej osoby
+14. Utwórz tablicę asocjacyjną która będzie zawierała wszystkie powyższe zmienne w postaci typ zmiennej => wartość
+15. Dla każdej wyżej utworzonej zmiennej stwórz zmienną będącą kopią zmiennej
+16. Dla każdej wyżej utworzonej zmiennej stwórz zmienną będącą referencją do zmiennej
+17. Utwórz tablicę asocjacyjną która będzie zawierała referencje do powyższych zmiennych w postaci typ zmiennej => wartość
