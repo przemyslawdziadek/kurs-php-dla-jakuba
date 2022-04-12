@@ -1,5 +1,5 @@
 <?php
 echo '<pre>';
-echo "nowa galaz test nowy";
+echo "czesc";
 //Tutaj dodaj rozwiązania
 echo '</pre>';
