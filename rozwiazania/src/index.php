@@ -1,5 +1,5 @@
 <?php
 echo '<pre>';
-echo "abbsdsd";
+echo "nowa galaz";
 //Tutaj dodaj rozwiązania
 echo '</pre>';
